@@ -1,11 +1,12 @@
-# Portfolio
-<img width="1592" alt="Screen Shot 2022-10-06 at 1 34 54 AM" src="https://user-images.githubusercontent.com/111404478/194223024-adda5759-7170-4aee-93a3-34b61920182d.png">
+
+
 # Portfolio<br/>
 Learn about HTML/CSS/Bootstap through creation. Also, when they are looking for a job, customize it to create your own portfolio.
 
-[Live Heroku Development](https://portfolio.akashmsra.repl.co)
+[Live replit Development](https://Portfolio-.akashmsra.repl.co)
 
-## Tech used
+## Tech used![Screenshot 2022-12-15 at 12 06 18 PM](https://user-images.githubusercontent.com/111404478/207790257-1b36af14-763c-4a03-83a4-a4984787a0f4.png)
+
 * HTML
 * css
 ## Installation
