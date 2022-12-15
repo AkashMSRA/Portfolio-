@@ -1,0 +1,141 @@
+/******
+common
+*******/
+body{
+    font-family: "monospace",sans-serif;
+}
+.font-primary{
+    color: #00abae;
+}
+.tile-icon{
+    font-size:1vw;
+    font-weight: bold;
+}
+p{
+    font-size:1vw;
+}
+h2{
+    font-weight:bold;
+    font-size:2vw;
+    margin-bottom:1vw;
+    text-align: center;
+}
+a.font-black{
+    color:#000 !important;
+
+}
+ body{
+     height:20vh;
+     justify-content:top;
+     align-items:center;
+ }
+/******
+ABOUT
+******/
+#about{
+    margin:3vw auto;
+    max-width:40%;
+    text-align:center;
+}
+#about img{
+    border-radius:50%;
+    width:10vw;
+    height:10vw;
+}
+#about .name{
+    font-size:1.5vw;
+
+}
+
+#about .vocation{
+    font-size:1.2vw;
+    color: #A8A8AB;
+    margin-bottom:1vw;
+}
+
+#about .skills{
+    font-size:1.2vw;
+    color:#00ABAE;
+    margin-bottom:1vw;
+}
+#about .email{
+    margin-top:1vw;
+    font-size:1vw;
+
+}
+#about .icon{
+    margin-top:2vw;
+    font-size: 3vw;
+}
+ #about .icon a{
+     color: #000;
+ }
+
+
+ /*******
+ project
+ *******/
+
+ #projects{
+     margin:3vw auto;
+     width:80%;
+    
+ }
+
+ #projects h2{
+    text-align: center;
+ }
+
+ #projects .card img{
+     width:100%;
+ }
+ #projects .card-title{
+     font-weight: bold;
+ }
+
+ .project-video {
+    width: 100%;
+    height: 20vw;
+    background-color: black;
+  }
+
+  .card-body .card-title{
+    font-size: 2vw;
+  }
+
+  .card-body a{
+    padding: 1vw;
+    width: 10vw;
+    height: 4vw;
+    font-size: 1.2vw;
+
+  }
+
+  .container a{
+    font-size: 2vw;
+  }
+
+  .navbar-nav .nav-item a{
+    font-size: 2vw;
+  }
+
+  .navbar{
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 0.5vw;
+    padding-bottom: 0.5vw;
+
+  }
+
+  .navbar-toggler {
+    padding: 1vw;
+    font-size: 1vw;
+    line-height:1vw;
+    background-color: transparent;
+    border: 1px solid transparent;
+    border-radius: 0.5vw;
+    transition: box-shadow .15s ease-in-out;
+  }
